@@ -1,0 +1,5 @@
+{{#user}}
+Name: Dikshant Hasbe
+Skills: AWS, DevOps tools like git. github, jenkins, terraform, docker, kubernetes
+Email: dikshanthasbe@gmail.com
+{{/user}}
